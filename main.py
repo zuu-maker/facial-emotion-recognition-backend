@@ -16,6 +16,8 @@ origins = [
     "https://localhost.tiangolo.com",
     "http://localhost",
     "http://localhost:3000",
+    "https://facial-emotion-recognition-react.vercel.app",
+    "https://facial-emotion-recognition-react-git-main-zulumkhuzo-gmailcom.vercel.app/"
 ]
 
 app.add_middleware(
